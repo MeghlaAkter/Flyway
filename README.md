@@ -24,4 +24,4 @@ Flyway schema updated successfully
 
 V1 operation
 
-![version1 Image](full.png)
+![version1 Image](Full1.png)
