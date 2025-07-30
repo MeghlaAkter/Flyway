@@ -18,7 +18,7 @@ Flyway Core
 
 
 # Screenshots
-Fluway scema updated succesfully
+Flyway schema updated successfully
 
 ![flywayconnected Image](flyway.png)
 
